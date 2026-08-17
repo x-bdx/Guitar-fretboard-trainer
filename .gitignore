@@ -1,0 +1,14 @@
+# Compiled Java binaries and IDE build folders
+out/
+bin/
+target/
+*.class
+
+# IDE configurations
+.vscode/
+.idea/
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
